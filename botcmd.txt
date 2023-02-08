@@ -14,3 +14,10 @@ Pwetzel Slowmode
 @Pwetzel#4141 sm [time]s
 Ex : @Pwetzel#4141 sm 2s
 
+Carl-Bot Event Manual 
+-eventdono
+
+Carl-Bot Competitor Role
+-cp [@User]
+We rarely use this!
+
