@@ -1,3 +1,16 @@
 Pwetzel Dono add
 
-@Pwetzel#4141 d a <@User><Amount>
+@Pwetzel#4141 d a [@User][Amount]
+Make sure there is no space between the user and amount!
+
+Frisky Tool Timer
++tstart [Time]
+
+Pwetzel Lock and Unlock 
+@Pwetzel#4141 Lock
+@Pwetzel#4141 Unlock
+
+Pwetzel Slowmode 
+@Pwetzel#4141 sm [time]s
+Ex : @Pwetzel#4141 sm 2s
+
