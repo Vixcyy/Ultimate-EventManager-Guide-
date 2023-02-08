@@ -3,3 +3,4 @@
 3. Don't forget to log payouts in Event Manager Chat.
 4. There is a 15m CD for event ping and it is applied guildwide so make sure to cordinate with other event manager on who will host first.
 5. ONLY FOR MAFIA PLEASE MAKE SURE THE PRICE CAN BE SPLIT BETWEEN THE WINNERS.
+6. No need to ping anyone for payouts it will be proccessed automaticly.
