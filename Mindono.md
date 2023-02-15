@@ -1,19 +1,9 @@
-**Here are the minimum dono that the sponsor needs to sponsor an event!**
+Minimum Donation Amounts:
 
-Kahoot : 100M
-
-Last to leave : 100M
-
-Ban Battle : 10M
-
-Uno : 10M
-
-Rollkill : 5M
-
-Bingo : 5M
-
-Mafia : 1M
-
-Tea : 1M
-
-Rumble : 1M
+Kahoot Event: 100 mil
+Last To Leave VC: 100 mil
+Ban Battle 10mil
+Mafia: 5 mil
+Tea Game: 1 mil
+Roll kill: 5m
+Any Other like guess the number/emoji, race etc can be anywhere above 1 mill
