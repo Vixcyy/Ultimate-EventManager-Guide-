@@ -4,12 +4,12 @@ Kahoot Event: 100 mil
 
 Last To Leave VC: 100 mil
 
-Ban Battle 10mil
+Ban Battle 20mil
 
-Mafia: 5 mil
+Mafia: 10 mil
 
-Tea Game: 1 mil
+Roll kill: 10mil
 
-Roll kill: 5m
+Tea Game: 5 mil
 
-Any Other like guess the number/emoji, race etc can be anywhere above 1 mill
+Any Other like guess the number/emoji, race etc can be anywhere above 5 mill
