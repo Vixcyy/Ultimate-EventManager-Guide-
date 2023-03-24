@@ -1,0 +1,1 @@
+-eping event reward sponsor message
