@@ -4,7 +4,9 @@ Kahoot Event: 100 mil
 
 Last To Leave VC: 100 mil
 
-Ban Battle 20mil
+Ban Battle: 20mil
+
+UNO: 15mil
 
 Mafia: 10 mil
 
