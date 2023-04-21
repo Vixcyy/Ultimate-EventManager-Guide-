@@ -6,7 +6,7 @@ Last To Leave VC: 100 mil
 
 Ban Battle: 20mil
 
-UNO: 15mil
+UNO: 100mil/20mil (refer to `-er uno`)
 
 Mafia: 10 mil
 
