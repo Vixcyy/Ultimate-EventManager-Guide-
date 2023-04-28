@@ -1,0 +1,14 @@
+1. Run `g.gartic [mode]` to start the game. 
+Gartic modes:
+- Animals
+- Foods
+- Flags
+- Cartoons 
+- Movies
+- Object 
+- Pokemon
+- Verbs
+- General (default)
+2. Unlock the channel. 
+3. You can use `g.skip` or `g.hint` anytime during the event. There's only a limited amount of uses for these commands so use it wisely.
+4. Once the event ends, run `g.end` to properly end the game. 
